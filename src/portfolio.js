@@ -7,12 +7,12 @@ import facebookLogo from "./assets/images/facebookLogo.png";
 import quoraLogo from "./assets/images/quoraLogo.png";
 import airbnbLogo from "./assets/images/airbnbLogo.png";
 import awssaa from "./assets/images/awssaa.png";
-import masters from "./assets/images/masters.jpg";
-import associate from "./assets/images/associate.jpg";
-import devassociate from "./assets/images/devassociate.jpg";
-import sysops from "./assets/images/sysops.jpg";
-import database from "./assets/images/database.jpg";
-import cloud from "./assets/images/cloud.jpg";
+import masters from "./assets/images/masters.png";
+import associate from "./assets/images/associate.png";
+import devassociate from "./assets/images/devassociate.png";
+import sysops from "./assets/images/sysops.png";
+import database from "./assets/images/database.png";
+import cloud from "./assets/images/cloud.png";
 
 
 // Splash Screen
